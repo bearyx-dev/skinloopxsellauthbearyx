@@ -6,6 +6,13 @@ A simple guide for integrating SellAuth with [Skinloop](https://skinloop.io/)
 
 If you want the easiest setup, use **Skinloop hosted integration** [find it here](https://skinloop.io/dashboard/integrations). It supports Rust and CS2 is the recommended option if you don't want to handle the integration yourself.
 
+
+
+
+
+
+
+
 ## Or do it yourself then here but rust only if you do it yourself
 
 1. Open the [SellAuth integration guide](https://docs.skinloop.io/integrations/sellauth).
