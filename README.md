@@ -1,6 +1,6 @@
-# SellAuth Integration (Rust)
+# SellAuth X [Skinloop](https://skinloop.io/)
 
-A simple guide for integrating SellAuth with https://skinloop.io/ 
+A simple guide for integrating SellAuth with [Skinloop](https://skinloop.io/)
 
 ## Hosted integration (recommended) 10 times easier
 
